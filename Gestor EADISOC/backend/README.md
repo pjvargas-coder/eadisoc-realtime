@@ -1,0 +1,1 @@
+See .env for LOCK_TTL_SECONDS and HEARTBEAT_INTERVAL. Start backend with npm install && npm start

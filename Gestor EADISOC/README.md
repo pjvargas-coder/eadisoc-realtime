@@ -1,0 +1,1 @@
+EADISOC Realtime (Socket.IO) - Backend + Frontend. See backend/README.md and frontend/README.md

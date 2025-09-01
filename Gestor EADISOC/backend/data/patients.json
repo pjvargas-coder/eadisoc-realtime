@@ -1,0 +1,44 @@
+[
+  {
+    "caso": "1033",
+    "nombre": "BLAZQUEZ MARTINEZ, LIDIA",
+    "fechaNac": "04/08/2012",
+    "edad": 13,
+    "diagnostico": "Rasgos TEA",
+    "estado": "Alta",
+    "protocoloEscolar": "Sí",
+    "centroEscolar": "IES Joan Maria Thomas",
+    "centroSalud": "IBSMIA",
+    "derivacion": "IBSMIA",
+    "pruebas": [],
+    "notas": []
+  },
+  {
+    "caso": "1046",
+    "nombre": "SALAS IZQUIERDO, MILAN",
+    "fechaNac": "30/01/2023",
+    "edad": 2,
+    "diagnostico": "TEA grado 2-3",
+    "estado": "En seguimiento",
+    "protocoloEscolar": "No",
+    "centroEscolar": "",
+    "centroSalud": "Hospital Son Espases",
+    "derivacion": "",
+    "pruebas": [],
+    "notas": []
+  },
+  {
+    "caso": "1050",
+    "nombre": "GARCIA RODRIGUEZ, MARIA",
+    "fechaNac": "15/03/2015",
+    "edad": 10,
+    "diagnostico": "TDAH",
+    "estado": "Pendiente",
+    "protocoloEscolar": "Sí",
+    "centroEscolar": "CEIP Teringa",
+    "centroSalud": "Centro de Salud Manacor",
+    "derivacion": "Centro de Salud Manacor",
+    "pruebas": [],
+    "notas": []
+  }
+]
